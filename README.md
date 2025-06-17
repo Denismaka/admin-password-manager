@@ -20,10 +20,10 @@ Ce projet est un petit exercice PHP permettant d’enregistrer un administrateur
 
 Pour toute question ou collaboration, n'hésitez pas à me contacter :
 
-✉️ Email : makadenis370@gmail.com
-📱 Téléphone : +243818252385, +243997435030.
-🔗 Réseaux sociaux : Suivez-moi sur :
-Twitter 🐦
-LinkedIn 💼
-GitHub 🐱
-Facebook 👥
+-   ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **Email** : [makadenis370@gmail.com](mailto:makadenis370@gmail.com)
+-   ![Téléphone](https://img.shields.io/badge/Téléphone-25D366?style=flat&logo=whatsapp&logoColor=white) **Téléphone** : [+243818252385](tel:+243818252385), [+243997435030](tel:+243997435030)
+-   ![Réseaux sociaux](https://img.shields.io/badge/Réseaux_Sociaux-5865F2?style=flat&logo=internet-explorer&logoColor=white) **Réseaux sociaux** :
+    -   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+    -   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+    -   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+    -   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/)
